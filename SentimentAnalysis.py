@@ -416,20 +416,6 @@ st.sidebar.header('Please Input Hotel Review')
 contoh_review = st.sidebar.text_input("For better result, please review more than one element")
 
 
-# In[43]:
-
-
-pip list
-
-
-# In[44]:
-
-
-pip install --upgrade pip
-
-
-# In[ ]:
-
 
 
 
